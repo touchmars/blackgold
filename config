@@ -1,0 +1,9 @@
+#Default Github
+Host github.com
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/id_rsa
+Host touchmars.github.com
+	HostName github.com
+	User git
+	IdentityFile ~/.ssh/id_rsa_touchmars
